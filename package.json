@@ -2,6 +2,7 @@
   "name": "pinetree-sample",
   "version": "0.1.0",
   "private": true,
+  "homepage": ".",
   "dependencies": {
     "pinetree": "https://github.com/zplanet/pinetree",
     "react": "^16.2.0",
